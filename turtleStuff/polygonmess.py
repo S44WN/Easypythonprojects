@@ -19,6 +19,7 @@ tim.left(90)
 tim.forward(300)
 tim.right(90)
 tim.pendown()
+tim.speed('fastest')
 
 sides = 3
 
